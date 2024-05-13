@@ -19,8 +19,7 @@ Este projeto tem o objetivo de gerar um artigo técnico com um layout rico, leit
 
 ChatGPT：
 
-|   Ação   | prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|   Ação   | prompt    |                                                                                                                                                                                                                                                                   
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto rotinas de estudo mais produtivas 
                                                                                                                                                                                                     |
 | conteúdo | Crie um artigo sobre 5 definições de rotinas de estudo que tornem o aprendizado mais produtivo. Comporte-se como um professor, que está transmitindo esse conhecimento aos seus alunos que farão alguma prova importante.
